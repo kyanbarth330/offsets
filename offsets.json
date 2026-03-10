@@ -30,7 +30,7 @@
   "BoneMap": "0x660",
   "NumBones": "0x668",
   "ComponentToWorld": "0x1E0",
-  "RelativeLocation": "0x140",
+  "RelativeLocation": "0x10",
   "RelativeRotation": "0x158",
   "ComponentVelocity": "0x188",
   "CameraCachePrivate": "0x1AF0",
