@@ -9,7 +9,7 @@
   "PersistentLevel": "0x38",
   "ActorCount": "0xA8",
   "Actors": "0x48",
-  "PlayerController": "0x30",
+  "PlayerController": "0x2b0",
   "PlayerCameraManager": "0x368",
   "AcknowledgedPawn": "0x358",
   "TargetedFortPawn": "0x1810",
